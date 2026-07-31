@@ -1,6 +1,15 @@
 # 💫 About Me:
-Hi, I'm Sai Teja Musuku, a Computer Science graduate and aspiring Software Engineer with a strong interest in Java Backend Development and AI Engineering. I enjoy solving algorithmic problems, building scalable applications, and continuously learning new technologies. My current focus is on mastering Spring Boot, Microservices, System Design, and Cloud, while exploring AI-powered applications and intelligent software solutions. I believe in writing clean, efficient code and improving through consistent practice and real-world projects.
+💫 About Me
 
+Hi, I'm Sai Teja Musuku, a Computer Science graduate and aspiring Software Engineer with a strong interest in Java Backend Development and AI Engineering.
+
+I enjoy solving algorithmic problems, building scalable applications, and continuously learning new technologies. My current focus is on Spring Boot, JDBC, Microservices, System Design, Cloud, and AI-powered applications. I believe in writing clean, maintainable code and improving through consistent practice and real-world projects.
+
+🔭 Currently Working On: Java JDBC Bank Management System
+🌱 Currently Learning: Spring Boot, Hibernate, Microservices, Docker, System Design & AWS
+💡 Interested In: Backend Development, Distributed Systems & AI Engineering
+💬 Ask Me About: Java, JDBC, SQL, DSA, REST APIs
+⚡ Fun Fact: I love turning ideas into real-world applications and continuously challenging myself with new technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saitejamusuku/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saitejamusuku@gmail.com) 
